@@ -45,8 +45,8 @@ E-commerce full-stack desarrollado de punta a punta con integración de pagos.
 ## 📊 Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TU-USUARIO&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU-USUARIO&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=nicocaci&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nicocaci&layout=compact&theme=tokyonight" />
 </p>
 
 ---
@@ -55,11 +55,11 @@ E-commerce full-stack desarrollado de punta a punta con integración de pagos.
 
 <p align="center">
 
-<a href="https://www.linkedin.com/">
+<a href="[https://www.linkedin.com/](https://www.linkedin.com/in/nicolas-caci-b5b069249/)">
   <img src="https://img.shields.io/badge/LinkedIn-Perfil-blue?style=for-the-badge&logo=linkedin" />
 </a>
 
-<a href="mailto:tuemail@email.com">
+<a href="nicko.caci@gmail.com">
   <img src="https://img.shields.io/badge/Email-Contacto-red?style=for-the-badge&logo=gmail" />
 </a>
 
