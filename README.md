@@ -55,11 +55,11 @@ E-commerce full-stack desarrollado de punta a punta con integración de pagos.
 
 <p align="center">
 
-<a href="[https://www.linkedin.com/](https://www.linkedin.com/in/nicolas-caci-b5b069249/)">
+<a href="https://www.linkedin.com/in/nicolas-caci-b5b069249/">
   <img src="https://img.shields.io/badge/LinkedIn-Perfil-blue?style=for-the-badge&logo=linkedin" />
 </a>
 
-<a href="nicko.caci@gmail.com">
+<a href="mailto:nicko.caci@gmail.com">
   <img src="https://img.shields.io/badge/Email-Contacto-red?style=for-the-badge&logo=gmail" />
 </a>
 
